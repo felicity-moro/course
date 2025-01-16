@@ -35,7 +35,13 @@ Current system(s) at the client organization (if any).
 Consider end users both inside the client organization and outside. 
 
 ## 5.0 Known interaction within or outside the client organization
-List up to three
+## Integration with Existing Learning Management Systems (LMS)
+The software will need to interact with the district's current Learning Management System (LMS) to import curriculum, grades, and student data seamlessly. This integration allows educators to upload and manage course materials, track student progress, and create assignments while ensuring all relevant documents (such as IEPs, 504 plans, and CAL requirements) are incorporated into the system. Additionally, the LMS will synchronize with the platform's AI-driven features to adjust content and provide feedback aligned with each student’s needs.
+## Collaboration with Special Education and Support Teams
+The platform will facilitate communication and collaboration between educators, special education professionals, and support staff (e.g., counselors, speech therapists, learning specialists). Through shared access to individualized learning plans and accommodations, the software will enable these teams to collaborate on modifying curricula or strategies for specific students, ensuring alignment in supporting the learning goals. Furthermore, the system will allow for updates and insights into student progress, helping all involved parties make data-driven decisions for continued improvement.
+## Interaction with Parental Communication Channels
+The software will be integrated with parent communication tools (e.g., parent portals, email systems) to ensure seamless information flow between the school and home. Parents will have real-time access to their child's progress, upcoming assessments, and areas needing attention. The system’s recommendation engine can also suggest personalized strategies for parents to help support their child’s learning at home, fostering a more involved and effective learning environment outside the classroom.
+
 
 ## 6.0 Known constraints to development
 List up to three
